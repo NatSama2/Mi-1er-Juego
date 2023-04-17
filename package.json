@@ -2,9 +2,9 @@
   "name": "mi-1er-juego",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.html",
   "scripts": {
-    "start": "node index.js",
+    "start": "serve ./src",
     "test": "npm test"
   },
   "repository": {
@@ -16,6 +16,8 @@
   "bugs": {
     "url": "https://github.com/NatSama2/Mi-1er-Juego/issues"
   },
-  "homepage": "https://github.com/NatSama2/Mi-1er-Juego#readme"
+  "homepage": "https://github.com/NatSama2/Mi-1er-Juego#readme",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
 }
-
