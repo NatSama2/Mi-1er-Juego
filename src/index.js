@@ -238,3 +238,4 @@ function IsCollision(a, b, paddingTop, paddingRight, paddingBottom, paddingLeft)
         (aRect.left + paddingLeft > (bRect.left + bRect.width))
     );
 }
+
