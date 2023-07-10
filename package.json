@@ -2,7 +2,7 @@
   "name": "mi-1er-juego",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.html",
+  "main": "src/index.js",
   "scripts": {
     "start": "serve ./src",
     "test": "npm test"
